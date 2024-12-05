@@ -2,7 +2,7 @@
 
 Welcome to the **UK Employment Analysis Project**! This project explores employment trends in the UK between **2011 and 2014**, focusing on industries, cities, and sub-industries. 🏢🌍
 
-![Screenshot 2024-12-02 142044](https://github.com/user-attachments/assets/62995342-4ab3-4bdd-8eb1-d1cf89d7399f)
+![Gemini_Generated_Image_l2pi8el2pi8el2pi](https://github.com/user-attachments/assets/681abf33-e88b-442d-b86d-3d0ed47603f7)
 
 ---
 
@@ -40,7 +40,7 @@ In this project, I analyzed an employment dataset for the UK using a combination
 
 ### 3️⃣ Employment by Sub-Industry
 **Insight**: A detailed look into employment figures within sub-industries, uncovering niche trends.  
-![Sub-Industry Employment Visualization](https://via.placeholder.com/800x400.png?text=Sub-Industry+Visualization)
+![Screenshot 2024-12-02 142044](https://github.com/user-attachments/assets/62995342-4ab3-4bdd-8eb1-d1cf89d7399f)
 
 ---
 
